@@ -1,0 +1,68 @@
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 120px;
+}
+
+.profileimage {
+    width: 200px;
+}
+
+body {
+    background: linear-gradient(green 0%, greenyellow 40%, green 100%);
+}
+.profile h2 {
+    margin-top: 15px;
+}
+
+.biodata {
+    background: linear-gradient(#fff 0%, #ffffff8f 40%, #ffffff00 100%);
+    padding-bottom: 250px;
+}
+
+.footer {
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+
+.aps a {
+    color: black;
+    font-size: 30px;
+}
+.totop {
+    padding-top: 15px;
+}
+
+.hobbies {
+    padding: 55px;
+}
+
+.biodata {
+    padding: 55px;
+}
+
+.col-sm {
+    padding: 20px 0px;
+}
+
+button {
+    margin: 10px 0px;
+}
+
+.rules {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    flex-direction: column;
+}
+
+.rule {
+    width: 400px;
+}
+
+.rules h4 {
+margin-bottom: 30px;
+}
